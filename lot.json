@@ -26,8 +26,8 @@
   "show_custom_ad": "off",
 
   "show_first_button": "on",
-  "show_second_button":"off",
-  "show_third_button": "off",
+  "show_second_button":"on",
+  "show_third_button": "on",
   "show_fourth_button":"on",
 
   
@@ -36,8 +36,8 @@
   
   "onesignal_id": "xxxxxxx",
 
-  "web_btn_1_text": "Open Web One",
-  "web_btn_2_text": "Open Web Two",
+  "web_btn_1_text": "START SHOPPING",
+  "web_btn_2_text": "START SHOPPING",
 
   "force_ate": false,
   
