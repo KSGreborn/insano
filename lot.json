@@ -16,13 +16,20 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook ",
 
-  "Interstitial": "none",
-  "Banner": "none",
-  "Native": "none",
+  "Interstitial": "non",
+  "Banner": "non",
+  "Native": "non",
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   "seconds_to_show_custom_ad": 30,
+  "show_custom_ad": "off",
+
+  "show_first_button": "on",
+  "show_second_button":"off",
+  "show_third_button": "off",
+  "show_fourth_button":"on",
+
   
   "first_screen_text": "first screen text",
   "second_screen_text": "second screen text",
@@ -50,7 +57,7 @@
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 0",
 	 "sub_title": "Get 50% Off",
-	 "go_to": ""
+	 "go_to": "https://www.geeksforgeeks.org"
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
@@ -191,24 +198,24 @@
   ],
 
   "image_ideas": [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOC4nOJBYnGbq_cWH6dob5wngKD_BIwK7rzkuM-0z2A&s",
-    "https://imgv3.fotor.com/images/side/remove-the-vintage-image-filter-from-the-female-holding-a-bouquet-of-flowers-image-using-fotor-ai-filter-remover.jpg"
+    "https://coach.scene7.com/is/image/Coach/cl276_czs_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cm196_b4r3u_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cn431_kha_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cm315_imczs_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/ce871_imczs_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cl950_b4km_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/c8322_imdqc_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/4454_imblk_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/c3308_imdqc_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cn035_b4r3u_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cn998_khm_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/ck740_czs_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cl417_qbw5i_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/c8157_qbsd_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cj507_svdtv_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cj575_qbo4g_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/cb837_qbbk_a0?$desktopProduct$",
+    "https://coach.scene7.com/is/image/Coach/c8174_qbbk_a0?$desktopProduct$"
   ],
 
   "customNativeAdList": [
