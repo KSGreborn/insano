@@ -7,7 +7,7 @@
   "AdsController": {
       
     "runAds"                     : true,
-    "native"                     : "costum",
+    "native"                     : "admob",
       
     "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "admob",
