@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : true,
+    "runAds"                     : false,
     "native"                     : "ads",
       
     "BannerNetwork"              : "admob",
@@ -30,7 +30,7 @@
   },
   
   "HouseAdSettings":{
-      "popStatus"      : true,
+      "popStatus"      : false,
       "popTimerSecond" : 10,
       
       "nativeStatus"   : false,
@@ -42,9 +42,9 @@
   
   "ControlActivity": {
       
-    "GenderActivity": true,
+    "GenderActivity": false,
     
-    "CaptchaActivity": true,
+    "CaptchaActivity": false,
     
     "FirstInfoActivity": {
       "status": false,
@@ -185,9 +185,45 @@
     "title": "SHOP HERE",
     "list": [
       {
-        "title": "Button 4 url 1",
-        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
-        "url": "https://www.google.com/",
+                "title": "All Departments",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Holidays",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Toys & Crafts",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Kitchen",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Home & Office",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Health",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
+        "status": true
+      },
+{
+        "title": "Food & Drinks",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       }
     ]
