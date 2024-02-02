@@ -184,47 +184,31 @@
     "status": true,
     "title": "SHOP HERE",
     "list": [
-      {
-                "title": "HOME",
-        "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/",
-        "status": true
-      },
+      
 {
         "title": "NEW ARRIVALS",
         "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/r/women/new-arrivals",
+        "url": "https://www.modz.fr/marques/primark/",
         "status": true
       },
 
 {
         "title": "MEN",
         "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/c/men",
+        "url": "https://www.modz.fr/marques/primark/",
         "status": true
       },
 {
         "title": "WOMEN",
         "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/c/women",
+        "url": "https://www.modz.fr/marques/primark/",
         "status": true
       },
-{
-        "title": "KIDS",
-        "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/c/kids",
-        "status": true
-      },
+
       {
         "title": "HOLIDAY SHOP",
         "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/holiday-shop",
-        "status": true
-      },
-      {
-        "title": "COLLABS",
-        "image": "https://i.ibb.co/XbrrGDR/primark-logo.jpg",
-        "url": "https://www.primark.com/en-gb/collabs",
+        "url": "https://www.modz.fr/marques/primark/",
         "status": true
       }
       
