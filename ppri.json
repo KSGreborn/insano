@@ -42,9 +42,9 @@
   
   "ControlActivity": {
       
-    "GenderActivity": true,
+    "GenderActivity": false,
     
-    "CaptchaActivity": true,
+    "CaptchaActivity": false,
     
     "FirstInfoActivity": {
       "status": false,
