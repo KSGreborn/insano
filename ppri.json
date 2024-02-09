@@ -44,7 +44,7 @@
       
     "GenderActivity": false,
     
-    "CaptchaActivity": false,
+    "CaptchaActivity": true,
     
     "FirstInfoActivity": {
       "status": false,
