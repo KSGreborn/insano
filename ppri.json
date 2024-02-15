@@ -30,13 +30,13 @@
   },
   
   "HouseAdSettings":{
-      "popStatus"      : false,
+      "popStatus"      : true,
       "popTimerSecond" : 30,
       
-      "nativeStatus"   : false,
+      "nativeStatus"   : true,
       "adTitle"        : "GЕТ FRЕЕ GIFТ САRD",
       "adPreview"      : "https://i.ibb.co/qmPjXP7/prim-1.jpg",
-      "adAction"       : "https://shorturl.at/bmp68"
+      "adAction"       : "https://shorturl.at/gmnNY"
       
   },
   
