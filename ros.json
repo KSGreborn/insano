@@ -30,19 +30,19 @@
   },
   
   "HouseAdSettings":{
-      "popStatus"      : false,
-      "popTimerSecond" : 10,
+      "popStatus"      : true,
+      "popTimerSecond" : 30,
       
-      "nativeStatus"   : false,
-      "adTitle"        : "Epic Brawl - Battle Royale",
-      "adPreview"      : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
-      "adAction"       : "https://play.google.com/store/apps/details?id=com.appon.epicbrawl"
+      "nativeStatus"   : true,
+      "adTitle"        : "GЕТ FRЕЕ GIFТ САRD",
+      "adPreview"      : "https://i.ibb.co/hfw1k4T/rossgift.jpg",
+      "adAction"       : "https://shorturl.at/lGSX1"
       
   },
   
   "ControlActivity": {
       
-    "GenderActivity": false,
+    "GenderActivity": true,
     
     "CaptchaActivity": false,
     
