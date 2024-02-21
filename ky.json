@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : false,
+    "runAds"                     : true,
     "native"                     : "ads",
       
     "BannerNetwork"              : "admob",
