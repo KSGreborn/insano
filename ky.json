@@ -15,9 +15,9 @@
     
     "IntervalClick"              : 1,
     
-    "AdMob_Banner"               : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"       : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"               : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"               : "/21857590943,23015343160/psa_tkmaxx_store/banner_300x250",
+    "AdMob_InterstitialAd"       : "/21857590943,23015343160/psa_tkmaxx_store/interstitial",
+    "AdMob_Native"               : "/21857590943,23015343160/psa_tkmaxx_store/native",
    
     "Facebook_Banner"            : "692961278482629_692963411815749",
     "Facebook_InterstitialAd"    : "692961278482629_692963491815741",
