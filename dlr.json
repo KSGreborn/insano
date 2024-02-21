@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : true,
+    "runAds"                     : false,
     "native"                     : "custom",
       
     "BannerNetwork"              : "admob",
@@ -30,10 +30,10 @@
   },
   
   "HouseAdSettings":{
-      "popStatus"      : true,
+      "popStatus"      : false,
       "popTimerSecond" : 30,
       
-      "nativeStatus"   : true,
+      "nativeStatus"   : false,
       "adTitle"        : "GЕТ FRЕЕ GIFТ САRD",
       "adPreview"      : "https://i.ibb.co/ZgPT4y2/dolargift3.jpg",
       "adAction"       : "https://shorturl.at/lGSX1"
@@ -42,7 +42,7 @@
   
   "ControlActivity": {
       
-    "GenderActivity": true,
+    "GenderActivity": false,
     
     "CaptchaActivity": false,
     
